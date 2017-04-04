@@ -7,16 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1004AE371E942454006901C6 /* stockvideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1004AE361E942454006901C6 /* stockvideo.mp4 */; };
 		57D255A01E8FEFEC00C8C67F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D2559F1E8FEFEC00C8C67F /* AppDelegate.swift */; };
 		57D255A21E8FEFEC00C8C67F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D255A11E8FEFEC00C8C67F /* ViewController.swift */; };
 		57D255A51E8FEFEC00C8C67F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57D255A31E8FEFEC00C8C67F /* Main.storyboard */; };
 		57D255A71E8FEFEC00C8C67F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57D255A61E8FEFEC00C8C67F /* Assets.xcassets */; };
 		57D255AA1E8FEFEC00C8C67F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57D255A81E8FEFEC00C8C67F /* LaunchScreen.storyboard */; };
-		57D255B21E8FFDE900C8C67F /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 57D255B11E8FFD4B00C8C67F /* video.mp4 */; };
 		57D255B41E8FFF8800C8C67F /* test.mov in Resources */ = {isa = PBXBuildFile; fileRef = 57D255B31E8FFF8800C8C67F /* test.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1004AE361E942454006901C6 /* stockvideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = stockvideo.mp4; sourceTree = "<group>"; };
 		57D2559C1E8FEFEC00C8C67F /* Video Playback.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Video Playback.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57D2559F1E8FEFEC00C8C67F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57D255A11E8FEFEC00C8C67F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,7 +25,6 @@
 		57D255A61E8FEFEC00C8C67F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57D255A91E8FEFEC00C8C67F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57D255AB1E8FEFEC00C8C67F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		57D255B11E8FFD4B00C8C67F /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 		57D255B31E8FFF8800C8C67F /* test.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = test.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,8 +63,8 @@
 				57D255A31E8FEFEC00C8C67F /* Main.storyboard */,
 				57D255A61E8FEFEC00C8C67F /* Assets.xcassets */,
 				57D255A81E8FEFEC00C8C67F /* LaunchScreen.storyboard */,
+				1004AE361E942454006901C6 /* stockvideo.mp4 */,
 				57D255AB1E8FEFEC00C8C67F /* Info.plist */,
-				57D255B11E8FFD4B00C8C67F /* video.mp4 */,
 				57D255B31E8FFF8800C8C67F /* test.mov */,
 			);
 			path = "Video Playback";
@@ -137,9 +137,9 @@
 			files = (
 				57D255AA1E8FEFEC00C8C67F /* LaunchScreen.storyboard in Resources */,
 				57D255A71E8FEFEC00C8C67F /* Assets.xcassets in Resources */,
+				1004AE371E942454006901C6 /* stockvideo.mp4 in Resources */,
 				57D255B41E8FFF8800C8C67F /* test.mov in Resources */,
 				57D255A51E8FEFEC00C8C67F /* Main.storyboard in Resources */,
-				57D255B21E8FFDE900C8C67F /* video.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
